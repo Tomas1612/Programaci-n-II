@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tomyg/CLionProjects/untitled2/Cartesiana.cpp
+Cartesiana.h
+C:/Users/tomyg/CLionProjects/untitled2/Cartesiana.h
+
+C:/Users/tomyg/CLionProjects/untitled2/Cartesiana.h
+iostream
+-
+
